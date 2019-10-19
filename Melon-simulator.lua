@@ -7,7 +7,7 @@ local char = p.Character
 while true do 
 	local melons = workspace.Melons:GetChildren()
 	for i, child in ipairs(melons) do
-		char.HumanoidRootPart.CFrame = child.CFrame
+		child.CFrame = char.HumanoidRootPart.CFrame
 		wait()
 	end
 	wait()
