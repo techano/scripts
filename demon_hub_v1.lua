@@ -1,6 +1,8 @@
--- Gui to Lua
--- Version: 3
+-- Demon Hub
+-- Version: 1
+-- by using you agree to the GNU General Public License v3.0 
 
+-- Script generated using Gui to lua
 -- Instances:
 
 local p = game.Players.LocalPlayer
